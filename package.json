@@ -1,0 +1,39 @@
+{
+  "name": "nextjs-toastify",
+  "version": "1.0.0",
+  "description": "A lightweight, customizable toast notification system for React/Next.js with TailwindCSS and Framer Motion.",
+  "main": "index.js",
+  "module": "index.js",
+  "keywords": [
+    "toast",
+    "react",
+    "nextjs",
+    "notification",
+    "tailwindcss",
+    "framer-motion",
+    "toastify",
+    "custom-toast"
+  ],
+  "funding": "https://github.com/sponsors/KaifCoding",
+	"author": {
+		"name": "Mohammad Kaif",
+		"email": "officialkaifansari@gmail.com",
+		"url": "https://kaifansari.atomprod.in"
+	},
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kaifCoding/nextjs-toastify"
+  },
+  "peerDependencies": {
+    "react": "^18.0.0 || ^17.0.0",
+    "react-dom": "^18.0.0 || ^17.0.0",
+    "framer-motion": "^10.0.0"
+  },
+  "files": [
+    "src",
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}
